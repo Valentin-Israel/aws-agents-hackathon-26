@@ -44,3 +44,7 @@ and the live-veto arc leans on AGORA-2026-002 (privacy precedent) being on the b
 - `src/court.py` — constitutional review (Fable 5) with veto + one revision loop
 - `src/registry.py` — the Code of Laws: `laws.json` source of truth, AgentCore Memory mirror
 - `src/cli.py` / `app.py` — terminal runner / Streamlit chamber
+
+## License
+
+Licensed under the [Apache License 2.0](LICENSE).
