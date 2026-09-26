@@ -47,4 +47,4 @@ and the live-veto arc leans on AGORA-2026-002 (privacy precedent) being on the b
 
 ## License
 
-Licensed under the [Apache License 2.0](LICENSE).
+Copyright 2026 Valentin Israel. Licensed under the [Apache License 2.0](LICENSE) — see [`NOTICE`](NOTICE).
